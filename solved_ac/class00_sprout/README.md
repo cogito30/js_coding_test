@@ -31,12 +31,12 @@
 | 27  | [개수 세기](https://www.acmicpc.net/problem/10807) | [풀이](./10807.js) | 반복문, 배열, 연산자 |    
 | 28  | [과제 안 내신 분..?](https://www.acmicpc.net/problem/5597) | [풀이](./5597.js) | 반복문, 배열, 연산자 |    
 | 29  | [행렬 덧셈](https://www.acmicpc.net/problem/2738) | [풀이](./2738.js) | 반복문, 배열, 연산자 |    
-| 30  | [아스키 코드](https://www.acmicpc.net/problem/11654) | [풀이]() | 문자열, 형변환 |    
-| 31  | [단어 길이 재기](https://www.acmicpc.net/problem/2743) | [풀이]() | 문자열 |    
-| 32  | [대소문자 바꾸기](https://www.acmicpc.net/problem/2744) | [풀이]() | 아스키코드 범위, 문자열 |    
-| 33  | [학점계산](https://www.acmicpc.net/problem/2754) | [풀이]() | 조건문, 소수점 고정 표기법 |    
-| 34  | [문자와 문자열](https://www.acmicpc.net/problem/27866) | [풀이]() | 문자열 인덱싱 |    
-| 35  | [그대로 출력하기](https://www.acmicpc.net/problem/11718) | [풀이]() | 한줄 입력, eof |    
-| 36  | [문자열](https://www.acmicpc.net/problem/9086) | [풀이]() | 문자열 인덱싱 |    
-| 37  | [이상한 기호](https://www.acmicpc.net/problem/15964) | [풀이]() | 함수, 연산자, 자료형 범위 |    
-| 38  | [검증수](https://www.acmicpc.net/problem/2475) | [풀이]() | 함수, 매개변수(배열) |    
+| 30  | *[아스키 코드](https://www.acmicpc.net/problem/11654) | [풀이](./11654.js) | 문자열, 형변환, charCodeAt |    
+| 31  | [단어 길이 재기](https://www.acmicpc.net/problem/2743) | [풀이](./2743.js) | 문자열 |    
+| 32  | *[대소문자 바꾸기](https://www.acmicpc.net/problem/2744) | [풀이](./2744.js) | 아스키코드 범위, 문자열 |    
+| 33  | *[학점계산](https://www.acmicpc.net/problem/2754) | [풀이]() | 조건문, 소수점 고정 표기법(toFixed) |    
+| 34  | [문자와 문자열](https://www.acmicpc.net/problem/27866) | [풀이](./27866.js) | 문자열 인덱싱 |    
+| 35  | [그대로 출력하기](https://www.acmicpc.net/problem/11718) | [풀이](./11718.js) | 한줄 입력, eof |    
+| 36  | [문자열](https://www.acmicpc.net/problem/9086) | [풀이](./9086.js) | 문자열 인덱싱 |    
+| 37  | [이상한 기호](https://www.acmicpc.net/problem/15964) | [풀이](./15964.js) | 함수, 연산자, 자료형 범위 |    
+| 38  | [검증수](https://www.acmicpc.net/problem/2475) | [풀이](./2475.js) | 함수, 매개변수(배열) |    
