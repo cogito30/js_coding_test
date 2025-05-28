@@ -12,11 +12,11 @@
 | 8  | [팰린드롬수](https://www.acmicpc.net/problem/1259) | [풀이](./1259.js) | 반복문, 조건문 |    
 | 9  | [평균](https://www.acmicpc.net/problem/1546) | [풀이](./1546.js) | 반복문, 최댓값 |    
 | 10  | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) | [풀이](./2609.js) | 유클리드 호제법 |    
-| 11  | [부녀회장이 될테야](https://www.acmicpc.net/problem/2775) | [풀이]() |  |    
-| 12  | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | [풀이]() |  |    
-| 13  | [수 정렬하기 3](https://www.acmicpc.net/problem/10989) | [풀이]() |  |    
-| 14  | [이항 계수 1](https://www.acmicpc.net/problem/11050) | [풀이]() |  |    
-| 15  | [FizzBuzz](https://www.acmicpc.net/problem/28702) | [풀이]() |  |    
+| 11  | [부녀회장이 될테야](https://www.acmicpc.net/problem/2775) | [풀이](./2775.js) | DP |    
+| 12  | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | [풀이](./2869.js) | 수학 |    
+| 13  | <s>[수 정렬하기 3](https://www.acmicpc.net/problem/10989)</s> | [풀이]() | node.js 없음 |    
+| 14  | [이항 계수 1](https://www.acmicpc.net/problem/11050) | [풀이](./11050.js) | 구현 |    
+| 15  | [FizzBuzz](https://www.acmicpc.net/problem/28702) | [풀이](./28702.js) | 문자열, 조건문 |    
 | 16  | [단어 정렬](https://www.acmicpc.net/problem/1181) | [풀이]() |  |    
 | 17  | [영화감독 숌](https://www.acmicpc.net/problem/1436) | [풀이]() |  |    
 | 18  | [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676) | [풀이]() |  |    
