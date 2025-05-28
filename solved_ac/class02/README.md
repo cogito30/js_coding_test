@@ -5,8 +5,8 @@
 | 1  | *[직각삼각형](https://www.acmicpc.net/problem/4153) | [풀이](./4153.js\) | 최대값, 제곱, 정렬 |    
 | 2  | [웹컴 키트](https://www.acmicpc.net/problem/30802) | [풀이](./30802.js) | 반복문, 조건문 |    
 | 3  | [소수 찾기](https://www.acmicpc.net/problem/1978) | [풀이](./1978.js) | 조건문, 반복문, 함수 |    
-| 4  | [분해합](https://www.acmicpc.net/problem/2231) | [풀이]() |  |    
-| 5  | [벌집](https://www.acmicpc.net/problem/2292) | [풀이]() |  |    
+| 4  | [분해합](https://www.acmicpc.net/problem/2231) | [풀이](./2231.js) | 이중반복문 |    
+| 5  | [벌집](https://www.acmicpc.net/problem/2292) | [풀이]() | 반복문, 조건문, 규칙찾기 |    
 | 6  | [블랙잭](https://www.acmicpc.net/problem/2798) | [풀이]() |  |    
 | 7  | [Hashing](https://www.acmicpc.net/problem/15829) | [풀이]() |  |    
 | 8  | [팰린드롬수](https://www.acmicpc.net/problem/1259) | [풀이]() |  |    
