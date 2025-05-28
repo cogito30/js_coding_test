@@ -24,17 +24,17 @@
 | 20  | *[아스키 코드](https://www.acmicpc.net/problem/11654) | [풀이](./11654.js) | 문자열, 형변환 |        
 | 21  | [새싹](https://www.acmicpc.net/problem/25083) | [풀이](./25083.js) | 특수문자열 출력 |        
 | 22  | [문자와 문자열](https://www.acmicpc.net/problem/27866) | [풀이](./27866.js) | 문자열 인덱싱 |        
-| 23  | [별 찍기-2](https://www.acmicpc.net/problem/2439) | [풀이]() | 반복문 |    
-| 24  | [숫자의 합](https://www.acmicpc.net/problem/11720) | [풀이]() | 반복문, 큰 숫자 입출력, 문자열로 숫자 처리 |    
-| 25  | [A + B - C](https://www.acmicpc.net/problem/31403) | [풀이]() | 문자열 <-> 숫자 변환 |    
-| 26  | [최댓값](https://www.acmicpc.net/problem/2562) | [풀이]() | 반복문, 연산자, 인덱스 주의 |    
-| 27  | [알람 시계](https://www.acmicpc.net/problem/2884) | [풀이]() | 조건문 |    
-| 28  | [ACM 호텔](https://www.acmicpc.net/problem/10250) | [풀이]() | 수학(규칙찾기) |    
-| 29  | [최소, 최대](https://www.acmicpc.net/problem/10818) | [풀이]() | 연산자, 배열 |    
-| 30  | [단어의 개수](https://www.acmicpc.net/problem/1152) | [풀이]() | 문자열 비교, getline, 엣지 케이스 주의 |    
-| 31  | [숫자의 개수](https://www.acmicpc.net/problem/2577) | [풀이]() | 반복문, 배열 |     
-| 32  | [문자열 반복](https://www.acmicpc.net/problem/2675) | [풀이]() | 문자열, 입출력 |   
-| 33  | [음계](https://www.acmicpc.net/problem/2920) | [풀이]() | 구현, 상태 확인 |  
-| 34  | [나머지](https://www.acmicpc.net/problem/3052) | [풀이]() | 배열, 집합, 중복 제거 |   
-| 35  | [OX퀴즈](https://www.acmicpc.net/problem/8958) | [풀이]() | 구현 |  
-| 36  | [알파벳찾기](https://www.acmicpc.net/problem/10809) | [풀이]() | 배열, ASCII |    
+| 23  | [별 찍기-2](https://www.acmicpc.net/problem/2439) | [풀이](./2439.js) | 반복문 |    
+| 24  | *[숫자의 합](https://www.acmicpc.net/problem/11720) | [풀이](./11720.js) | 반복문, 큰 숫자 입출력, 문자열로 숫자 처리 |    
+| 25  | *[A + B - C](https://www.acmicpc.net/problem/31403) | [풀이](./31403.js) | 문자열 <-> 숫자 변환 |    
+| 26  | [최댓값](https://www.acmicpc.net/problem/2562) | [풀이](./2562.js) | 반복문, 연산자, 인덱스 주의 |    
+| 27  | [알람 시계](https://www.acmicpc.net/problem/2884) | [풀이](./2884.js) | 조건문 |    
+| 28  | [ACM 호텔](https://www.acmicpc.net/problem/10250) | [풀이](./10250.js) | 수학(규칙찾기) |    
+| 29  | [최소, 최대](https://www.acmicpc.net/problem/10818) | [풀이](./10818.js) | 연산자, 배열 |    
+| 30  | *[단어의 개수](https://www.acmicpc.net/problem/1152) | [풀이](./1152.js) | 문자열 비교, 엣지 케이스(공백만 입력) 주의 |    
+| 31  | **[숫자의 개수](https://www.acmicpc.net/problem/2577) | [풀이](./2577.js) | 반복문, 배열, 나눗셈 연산 주의 |     
+| 32  | [문자열 반복](https://www.acmicpc.net/problem/2675) | [풀이](./2675.js) | 문자열, 입출력 |   
+| 33  | [음계](https://www.acmicpc.net/problem/2920) | [풀이](./2920.js) | 구현, 상태 확인 |  
+| 34  | [나머지](https://www.acmicpc.net/problem/3052) | [풀이](./3052.js) | 배열, 집합, 중복 제거 |   
+| 35  | [OX퀴즈](https://www.acmicpc.net/problem/8958) | [풀이](./8958.js) | 구현 |  
+| 36  | *[알파벳찾기](https://www.acmicpc.net/problem/10809) | [풀이](./10809.js) | 배열, ASCII변환, 문자열 메서드 |    
