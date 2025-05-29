@@ -27,11 +27,11 @@
 | 23  | [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651) | [풀이](./11651.js) | 정렬 |    
 | 24  | *[체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | [풀이](./1018.js) | 구현 |    
 | 25  | *[수 찾기](https://www.acmicpc.net/problem/1920) | [풀이](./1920.js) | set, 정렬 |    
-| 26  | [카드2](https://www.acmicpc.net/problem/2164) | [풀이]() |  |    
-| 27  | [설탕 배달](https://www.acmicpc.net/problem/2839) | [풀이]() |  |    
-| 28  | [균형잡힌 세상](https://www.acmicpc.net/problem/4949) | [풀이]() |  |    
-| 29  | [괄호](https://www.acmicpc.net/problem/9012) | [풀이]() |  |    
-| 30  | [제로](https://www.acmicpc.net/problem/10773) | [풀이]() |  |    
+| 26  | **[카드2](https://www.acmicpc.net/problem/2164) | [풀이]() | Queue 구현,  |    
+| 27  | [설탕 배달](https://www.acmicpc.net/problem/2839) | [풀이](./2839.js) | 규착 찾기 |    
+| 28  | [균형잡힌 세상](https://www.acmicpc.net/problem/4949) | [풀이](./4949.js) | stack, 문자열 |    
+| 29  | [괄호](https://www.acmicpc.net/problem/9012) | [풀이](./9012.js) | stack |    
+| 30  | [제로](https://www.acmicpc.net/problem/10773) | [풀이](./10773.js) | stack |    
 | 31  | [숫자 카드 2](https://www.acmicpc.net/problem/10816) | [풀이]() |  |    
 | 32  | [스택](https://www.acmicpc.net/problem/10828) | [풀이]() |  |    
 | 33  | [큐](https://www.acmicpc.net/problem/10845) | [풀이]() |  |    
