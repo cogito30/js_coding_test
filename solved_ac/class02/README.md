@@ -17,16 +17,16 @@
 | 13  | <s>[수 정렬하기 3](https://www.acmicpc.net/problem/10989)</s> | [풀이]() | node.js 없음 |    
 | 14  | [이항 계수 1](https://www.acmicpc.net/problem/11050) | [풀이](./11050.js) | 구현 |    
 | 15  | [FizzBuzz](https://www.acmicpc.net/problem/28702) | [풀이](./28702.js) | 문자열, 조건문 |    
-| 16  | [단어 정렬](https://www.acmicpc.net/problem/1181) | [풀이]() |  |    
-| 17  | [영화감독 숌](https://www.acmicpc.net/problem/1436) | [풀이]() |  |    
-| 18  | [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676) | [풀이]() |  |    
-| 19  | [수 정렬하기 2](https://www.acmicpc.net/problem/2751) | [풀이]() |  |    
-| 20  | [덩치](https://www.acmicpc.net/problem/7568) | [풀이]() |  |    
-| 21  | [나이순 정렬](https://www.acmicpc.net/problem/10814) | [풀이]() |  |    
-| 22  | [좌표 정렬하기](https://www.acmicpc.net/problem/11650) | [풀이]() |  |    
-| 23  | [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651) | [풀이]() |  |    
-| 24  | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | [풀이]() |  |    
-| 25  | [수 찾기](https://www.acmicpc.net/problem/1920) | [풀이]() |  |    
+| 16  | *[단어 정렬](https://www.acmicpc.net/problem/1181) | [풀이](./1181.js) | 문자열 비교, 정렬 |    
+| 17  | *[영화감독 숌](https://www.acmicpc.net/problem/1436) | [풀이](./1436.js) | string 메서드 |    
+| 18  | *[팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676) | [풀이](./1676.js) | 수학, |    
+| 19  | [수 정렬하기 2](https://www.acmicpc.net/problem/2751) | [풀이](./2751.js) | 정렬 |    
+| 20  | [덩치](https://www.acmicpc.net/problem/7568) | [풀이](./7568.js) | 구현, 이중반복문, 조건문 |    
+| 21  | [나이순 정렬](https://www.acmicpc.net/problem/10814) | [풀이](./10814.js) | 정렬 |    
+| 22  | [좌표 정렬하기](https://www.acmicpc.net/problem/11650) | [풀이](./11650.js) | 정렬 |    
+| 23  | [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651) | [풀이](./11651.js) | 정렬 |    
+| 24  | *[체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | [풀이](./1018.js) | 구현 |    
+| 25  | *[수 찾기](https://www.acmicpc.net/problem/1920) | [풀이](./1920.js) | set, 정렬 |    
 | 26  | [카드2](https://www.acmicpc.net/problem/2164) | [풀이]() |  |    
 | 27  | [설탕 배달](https://www.acmicpc.net/problem/2839) | [풀이]() |  |    
 | 28  | [균형잡힌 세상](https://www.acmicpc.net/problem/4949) | [풀이]() |  |    
