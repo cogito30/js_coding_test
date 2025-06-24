@@ -2,37 +2,37 @@
 
 | 문제번호 |  문제  | 풀이(코드) | 유형 |    
 |  :---:  | :---: |  :---:  |  :---:  |
-|  1  | [폰켓몬]() | [풀이]() |  |    
-|  2  | [2016년]() | [풀이]() |  |    
-|  3  | [가운데 글자 가져오기]() | [풀이]() |  |    
-|  4  | [같은 숫자는 싫어]() | [풀이]() |  |    
-|  5  | [나누어 떨어지는 숫자 배열]() | [풀이]() |  |    
-|  6  | [두 정수 사이의 합]() | [풀이]() |  |    
-|  7  | [문자열 내 마음대로 정렬하기]() | [풀이]() |  |    
-|  8  | [문자열 내 p와 y의 개수]() | [풀이]() |  |    
-|  9  | [문자열 내림차순으로 배치하기]() | [풀이]() |  |    
-|  10  | [문자열 다루기 기본]() | [풀이]() |  |    
-|  11  | [서울에서 김서방 찾기]() | [풀이]() |  |    
-|  12  | [소수 찾기]() | [풀이]() |  |    
-|  13  | [수박수박수박수박수박수?]() | [풀이]() |  |    
-|  14  | [문자열을 정수로 바꾸기]() | [풀이]() |  |    
-|  15  | [시저 암호]() | [풀이]() |  |    
+|  1  | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | [풀이]() |  |    
+|  2  | [2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901) | [풀이]() | 배열, 규칙찾기 |    
+|  3  | [가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903) | [풀이]() | 부분문자열, 나눗셈 |    
+|  4  | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906) | [풀이]() | 배열, 배열순회 |    
+|  5  | [나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910) | [풀이]() | 배열, 정렬 |    
+|  6  | [두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912) | [풀이]() |  |    
+|  7  | [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915) | [풀이]() | 문자열 특정 인덱스 기준 정렬 |    
+|  8  | [문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916) | [풀이]() | 조건문 |    
+|  9  | [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917) | [풀이]() | 문자열 정렬 |    
+|  10  | [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918) | [풀이]() | 문자열 인덱스, 조건문 |    
+|  11  | [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919) | [풀이]() |  |    
+|  12  | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921) | [풀이]() |  |    
+|  13  | [수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922) | [풀이]() |  |    
+|  14  | [문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925) | [풀이]() |  |    
+|  15  | [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926) | [풀이]() |  |    
 |  16  | [약수의 합]() | [풀이]() |  |    
 |  17  | [이상한 문자 만들기]() | [풀이]() |  |    
-|  18  | [자릿수 더하기]() | [풀이]() |  |    
-|  19  | [자연수 뒤집어 배열로 만들기]() | [풀이]() |  |    
-|  20  | [정수 내림차순으로 배치하기]() | [풀이]() |  |    
+|  18  | [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931) | [풀이]() |  |    
+|  19  | [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932) | [풀이]() |  |    
+|  20  | [정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933) | [풀이]() |  |    
 |  21  | [정수 제곱근 판별]() | [풀이]() |  |    
 |  22  | [제일 작은 수 제거하기]() | [풀이]() |  |    
-|  23  | [짝수와 홀수]() | [풀이]() |  |    
+|  23  | [짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937) | [풀이]() |  |    
 |  24  | [최대공약수와 최소공배수]() | [풀이]() |  |    
 |  25  | [콜라츠 추측]() | [풀이]() |  |    
-|  26  | [평균 구하기]() | [풀이]() |  |    
+|  26  | [평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944) | [풀이]() |  |    
 |  27  | [하샤드 수]() | [풀이]() |  |    
-|  28  | [핸드폰 번호 가리기]() | [풀이]() |  |    
-|  29  | [행렬의 덧셈]() | [풀이]() |  |    
-|  30  | [x만큼 간격이 있는 n개의 숫자]() | [풀이]() |  |    
-|  31  | [직사각형 별찍기]() | [풀이]() |  |    
+|  28  | [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948) | [풀이]() |  |    
+|  29  | [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950) | [풀이]() |  |    
+|  30  | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [풀이]() |  |    
+|  31  | [직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969) | [풀이]() |  |    
 |  32  | [소수 만들기]() | [풀이]() |  |    
 |  33  | [예산]() | [풀이]() |  |    
 |  34  | [[1차] 비밀지도]() | [풀이]() |  |    

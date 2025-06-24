@@ -9,8 +9,8 @@ javascript를 사용하여 algorithm 문제를 풀이
 
 ## 기간
 #### [Programmers](https://school.programmers.co.kr/learn/challenges?order=recent)
-- Lv0(): 8/224문제
-- Lv1(): 0/82문제
+- Lv0(2025.06.20-): 8/224문제
+- Lv1(2025.06.23-): 24/82문제
 - Lv2(): 0/113문제
 - Lv3(): 0/75문제
 - Lv4(): 0/25문제
